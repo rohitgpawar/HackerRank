@@ -58,17 +58,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DynamicProgramming\Coin Change Problem\CoinChangeProblem.cs" />
-    <Compile Include="DynamicProgramming\Equal\Equal.cs" />
-    <Compile Include="DynamicProgramming\Two Robots\TwoRobots.cs" />
+    <Compile Include="Dynamic Programming\Coin Change Problem\CoinChangeProblem.cs" />
+    <Compile Include="Dynamic Programming\Equal\Equal.cs" />
+    <Compile Include="Dynamic Programming\Two Robots\TwoRobots.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="DynamicProgramming\Coin Change Problem\coin-change-Problem- HackerRank.pdf" />
-    <None Include="DynamicProgramming\Equal\equal-HackerRank.pdf" />
-    <None Include="DynamicProgramming\Two Robots\two-robots-HackerRank.pdf" />
+    <None Include="Dynamic Programming\Coin Change Problem\coin-change-Problem- HackerRank.pdf" />
+    <None Include="Dynamic Programming\Equal\equal-HackerRank.pdf" />
+    <None Include="Dynamic Programming\Two Robots\two-robots-HackerRank.pdf" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
