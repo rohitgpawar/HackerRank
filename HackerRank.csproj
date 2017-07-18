@@ -63,12 +63,14 @@
     <Compile Include="Dynamic Programming\Two Robots\TwoRobots.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Week of Code 34\Once in a tram\OnceInATram.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Dynamic Programming\Coin Change Problem\coin-change-Problem- HackerRank.pdf" />
     <None Include="Dynamic Programming\Equal\equal-HackerRank.pdf" />
     <None Include="Dynamic Programming\Two Robots\two-robots-HackerRank.pdf" />
+    <None Include="Week of Code 34\Once in a tram\once-in-a-tram.pdf" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">

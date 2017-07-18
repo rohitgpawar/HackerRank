@@ -10,9 +10,11 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
+            OnceInATram.OnceInATramMain();
             TwoRobots.TwoRobotsMain();
             CoinChangeProblem.CoinChangeProblemMain();
             Equal.EqualMain();
+
         }
     }
 }
