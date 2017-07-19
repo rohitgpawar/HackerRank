@@ -10,6 +10,7 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
+            MaximumGcdAndSum.MaximumGcdAndSumMain();
             OnceInATram.OnceInATramMain();
             TwoRobots.TwoRobotsMain();
             CoinChangeProblem.CoinChangeProblemMain();
