@@ -65,6 +65,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Week of Code 34\Maximum GCD and Sum\MaximumGcdAndSum.cs" />
     <Compile Include="Week of Code 34\Once in a tram\OnceInATram.cs" />
+    <Compile Include="Week of Code 34\Same Occurance\SameOccurance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
