@@ -10,6 +10,7 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
+            QueueWithTwoStacks.QueueWithTwoStackMain();
             BalancedBrackets.BalancedBracketsMain();
             RansomNote.RansomNoteMain();
             SameOccurance.SameOccuranceMain();

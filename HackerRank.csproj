@@ -61,6 +61,7 @@
     <Compile Include="Cracking the Coding Interview\Array Left Rotation\ArrayLeftRotation.cs" />
     <Compile Include="Cracking the Coding Interview\Balanced Bracket\BalancedBrackets.cs" />
     <Compile Include="Cracking the Coding Interview\Making Anagrams\MakingAnagrams.cs" />
+    <Compile Include="Cracking the Coding Interview\QueueWithTwoStacks\QueueWithTwoStacks.cs" />
     <Compile Include="Cracking the Coding Interview\Ransom Note\RansomNote.cs" />
     <Compile Include="Dynamic Programming\Coin Change Problem\CoinChangeProblem.cs" />
     <Compile Include="Dynamic Programming\Equal\Equal.cs" />
@@ -77,6 +78,7 @@
     <None Include="Cracking the Coding Interview\Array Left Rotation\ctci-array-left-rotation.pdf" />
     <None Include="Cracking the Coding Interview\Balanced Bracket\ctci-balanced-brackets.pdf" />
     <None Include="Cracking the Coding Interview\Making Anagrams\ctci-making-anagrams.pdf" />
+    <None Include="Cracking the Coding Interview\QueueWithTwoStacks\ctci-queue-using-two-stacks.pdf" />
     <None Include="Cracking the Coding Interview\Ransom Note\ctci-ransom-note.pdf" />
     <None Include="Dynamic Programming\Coin Change Problem\coin-change-Problem- HackerRank.pdf" />
     <None Include="Dynamic Programming\Equal\equal-HackerRank.pdf" />

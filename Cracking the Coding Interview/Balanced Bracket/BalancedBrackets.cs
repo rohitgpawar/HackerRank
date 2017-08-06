@@ -72,6 +72,7 @@ namespace HackerRank
                 string expression = Console.ReadLine();
                 Console.WriteLine(CheckValidParenthesis(expression));
             }
+            
         }
     }
 }
