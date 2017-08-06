@@ -58,6 +58,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cracking the Coding Interview\Array Left Rotation\ArrayLeftRotation.cs" />
+    <Compile Include="Cracking the Coding Interview\Balanced Bracket\BalancedBrackets.cs" />
+    <Compile Include="Cracking the Coding Interview\Making Anagrams\MakingAnagrams.cs" />
+    <Compile Include="Cracking the Coding Interview\Ransom Note\RansomNote.cs" />
     <Compile Include="Dynamic Programming\Coin Change Problem\CoinChangeProblem.cs" />
     <Compile Include="Dynamic Programming\Equal\Equal.cs" />
     <Compile Include="Dynamic Programming\Two Robots\TwoRobots.cs" />
@@ -65,15 +69,21 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Week of Code 34\Maximum GCD and Sum\MaximumGcdAndSum.cs" />
     <Compile Include="Week of Code 34\Once in a tram\OnceInATram.cs" />
+    <Compile Include="Week of Code 34\Recurrent on a Tree\RecurrentOnATree.cs" />
     <Compile Include="Week of Code 34\Same Occurance\SameOccurance.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Cracking the Coding Interview\Array Left Rotation\ctci-array-left-rotation.pdf" />
+    <None Include="Cracking the Coding Interview\Balanced Bracket\ctci-balanced-brackets.pdf" />
+    <None Include="Cracking the Coding Interview\Making Anagrams\ctci-making-anagrams.pdf" />
+    <None Include="Cracking the Coding Interview\Ransom Note\ctci-ransom-note.pdf" />
     <None Include="Dynamic Programming\Coin Change Problem\coin-change-Problem- HackerRank.pdf" />
     <None Include="Dynamic Programming\Equal\equal-HackerRank.pdf" />
     <None Include="Dynamic Programming\Two Robots\two-robots-HackerRank.pdf" />
     <None Include="Week of Code 34\Maximum GCD and Sum\maximum-gcd-and-sum.pdf" />
     <None Include="Week of Code 34\Once in a tram\once-in-a-tram.pdf" />
+    <None Include="Week of Code 34\Recurrent on a Tree\recurrent-on-tree.pdf" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
@@ -87,6 +97,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -10,6 +10,8 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
+            BalancedBrackets.BalancedBracketsMain();
+            RansomNote.RansomNoteMain();
             SameOccurance.SameOccuranceMain();
             MaximumGcdAndSum.MaximumGcdAndSumMain();
             OnceInATram.OnceInATramMain();
